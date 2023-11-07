@@ -15,7 +15,7 @@ export const Form = styled(FormikForm)`
 `;
 
 export const Field = styled(FormikField)`
-  padding: 10px;
+  padding: 12px;
   font-size: inherit;
   border-radius: 25px;
   border: 1px solid #bdbdbd;

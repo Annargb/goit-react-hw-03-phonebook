@@ -19,7 +19,7 @@ export const FilterLabel = styled.span`
 `;
 
 export const FilterInput = styled.input`
-  padding: 10px 40px 10px 10px;
+  padding: 12px 40px 12px 12px;
   font-size: inherit;
   border-radius: 25px;
   border: 1px solid #bdbdbd;
